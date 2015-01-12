@@ -1,0 +1,16 @@
+.video-thumbnail {
+float: left;
+width: 400px;
+text-align: center;
+overflow: hidden;
+}
+
+.video-thumbnail img {
+max-width: 400px;
+margin: 0 auto -34px;
+}
+
+.video-thumbnail img.videoIndicator {
+position: relative;
+top: -150px;
+}
